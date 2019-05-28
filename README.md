@@ -1,21 +1,15 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+[OBJETOS INTELIGENTES CONECTADOS] 5 sem. 2019
 
-## Turma XXX
-## Projeto: "nome do projeto"
-## Integrantes do grupo:
+Turma 5 K 
+Projeto: "Leitor de Acesso"
+Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Allyson de Jesus Alvarenga Tia 31527736
+* Ricardo
 
-## Descrição resumida do projeto
+O controle de acesso para portas e catracas eletrônicas vem cada ano se modificando quando falamos do assunto de segurança.  Sabemos que a tecnologia esta mais presenta em nossas vidas com isso estamos adaptando-a em nossas residências. A maioria dos condomínios residências vem adotando esses sistemas de controle RFID, assim apresentamos nosso projeto afim que facilitar e ajudar nos dias a dias atuais das pessoas que querem mais segurança em suas residências. 
 
-Descreva resumidamente o projeto aqui.
+Esta tecnologia pode ser agregada em alguns dispositivos de segurança onde um sensor através de uma placa controladora avisa o sistema que a porta está aberta ou fechado. Em resumo podemos através de hardwares e softwares realizar infinitas aplicações para este modelo de controle.
 
-_______________________________________
-Obs:
 
-`src/` deve conter os códigos desenvolvidos
 
-`doc/` documentação do projeto
