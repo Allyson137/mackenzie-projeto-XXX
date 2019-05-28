@@ -1,11 +1,12 @@
 #[OBJETOS INTELIGENTES CONECTADOS] 5 sem. 2019 #
 
 #Turma 5 K #
-#Projeto: "Leitor de Acesso"#
+#Projeto: "Leitor de Acesso"
+
 #Integrantes do grupo:#
 
 * Allyson de Jesus Alvarenga Tia 31527736
-* Ricardo
+* Ricardo dos Reis           Tia 41534549
 
 O controle de acesso para portas e catracas eletrônicas vem cada ano se modificando quando falamos do assunto de segurança.  Sabemos que a tecnologia esta mais presenta em nossas vidas com isso estamos adaptando-a em nossas residências. A maioria dos condomínios residências vem adotando esses sistemas de controle RFID, assim apresentamos nosso projeto afim que facilitar e ajudar nos dias a dias atuais das pessoas que querem mais segurança em suas residências. 
 
