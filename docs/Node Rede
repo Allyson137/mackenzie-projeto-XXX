@@ -1,0 +1,12 @@
+Para comunicação do arduino com a web realizarmos a comunicação no Node Red
+
+Utliizamos o node red para apresentar as informação lidas no RFID RC522 no arduino
+
+O dashbord apresentara as uma conformação de leitor. 
+
+Qunado o cartão for identificado as informações apresenta "sim" que o cartão foi registrado. O dashdord ira apresentar não quando 
+
+o cartão não for lido, apenas quando ele identificar o cartão apresentara sim no sistema.
+
+Porque utilizamos o Node Red:
+Comunicar diretamente com o arduino, assim podemos usar a Internet das Coisas no projeto criado.  
