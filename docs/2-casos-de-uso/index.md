@@ -35,5 +35,5 @@
 | 4) Volta ao passo (3) do fluxo principal. |
 
 **Instruções do professor**: As tabelas acima mostram um exemplo de especificação de **um único caso de uso**. Lembre-se de especificar cada um dos casos de uso.
-
+ 
 
